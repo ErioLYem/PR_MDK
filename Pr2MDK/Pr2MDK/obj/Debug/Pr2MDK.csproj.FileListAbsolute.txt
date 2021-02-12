@@ -1,0 +1,6 @@
+C:\Temp\ПКС-85\PR\Pr2MDK\Pr2MDK\bin\Debug\Pr2MDK.exe.config
+C:\Temp\ПКС-85\PR\Pr2MDK\Pr2MDK\bin\Debug\Pr2MDK.exe
+C:\Temp\ПКС-85\PR\Pr2MDK\Pr2MDK\bin\Debug\Pr2MDK.pdb
+C:\Temp\ПКС-85\PR\Pr2MDK\Pr2MDK\obj\Debug\Pr2MDK.csprojResolveAssemblyReference.cache
+C:\Temp\ПКС-85\PR\Pr2MDK\Pr2MDK\obj\Debug\Pr2MDK.exe
+C:\Temp\ПКС-85\PR\Pr2MDK\Pr2MDK\obj\Debug\Pr2MDK.pdb
